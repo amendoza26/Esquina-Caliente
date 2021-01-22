@@ -17,10 +17,8 @@
     font-weight: bold;
 }
 
-.cart__body button:hover {
-    background: #ddb347;
-}
 
 .cart__body button:focus {
     outline: none;
 }
+

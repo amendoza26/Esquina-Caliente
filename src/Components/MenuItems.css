@@ -1,7 +1,3 @@
-.body {
-    display: flex;
-}
-
 .menuItems {
     flex: 0.7;
     padding: 20px;

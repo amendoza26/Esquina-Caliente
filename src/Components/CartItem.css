@@ -1,0 +1,16 @@
+.cartList {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cartList_button {
+    background: none;
+    border: none;
+    padding: 0;
+    background-color: none;
+}
+
+.MuiSvgIcon-root {
+    color: #D0DADA;
+}
